@@ -16,16 +16,16 @@ public class string2 {
 
 		string2 obj = new string2() ;
 		
-		obj.l++;
-		System.out.println(obj.l);
+		string2.l++;
+		System.out.println(string2.l);
 		System.out.println(obj.b);
 		System.out.println(obj.h);
 		
 		
 		string2 bjj = new string2() ; 
 	
-		bjj.l++;
-		System.out.println(bjj.l);
+		string2.l++;
+		System.out.println(string2.l);
 		System.out.println(bjj.b);
 		System.out.println(bjj.h);
 	
